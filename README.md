@@ -1,5 +1,6 @@
 # todo-list-app
-0基础学习计算机项目练手
+0计算机基础小白iOS开发学习之项目练手：
+不懂技术的运营不是好产品。
 
 ## 创建项目
 首先，我们需要在 Xcode 中创建一个新的 SwiftUI 项目。打开 Xcode，选择 File -> New -> Project，选择 iOS Application，点击 Next。在下一个界面中，我们需要输入项目的名称、组织名称和其他一些信息。选择 SwiftUI 作为界面框架。点击 Next，选择项目的保存路径，然后点击 Create。
